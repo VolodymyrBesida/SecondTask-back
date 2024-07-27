@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "Y+tMcVwpiZA63tTNUWh1bI99nCAaXSr+wwvTafDkG8horkj5i+M5DZHVLmiXHIdNayTQk7F45OuKVX0kzM1z4g==",
+  "success": true,
+  "projectFilePath": "D:\\C#\\test_27-07\\Task2\\Task2.Core\\Task2.Core.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Psche\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.1\\microsoft.extensions.dependencyinjection.abstractions.8.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
